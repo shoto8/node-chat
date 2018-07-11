@@ -154,7 +154,7 @@ button:disabled {
 }
 
 .message {
-    padding: 100px
+    padding: 10px
 }
 
 .message__title {
@@ -164,11 +164,11 @@ button:disabled {
 
 .message__title h4 {
     font-weight: 600;
-    margin-right: 10px
+    margin-right: 18px
 }
 
 .message__title span {
-    color: #999
+    color: #99f
 }
 
 @media (max-width: 600px) {
